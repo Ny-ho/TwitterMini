@@ -1,6 +1,6 @@
 # TwitterMini
 
-A small Django mini social app created to learn Django basics like models, views, templates, auth, and CRUD.
+A mini social app created to ltry Django. Used Bootstrap too.
 
 ## Preview
 
