@@ -4,7 +4,7 @@ A mini social app created to ltry Django. Used Bootstrap too.
 
 ## Preview
 
-![Minitweet preview](assets/minitweet-preview.png)
+<img width="1917" height="952" alt="Screenshot 2026-09-11 112603" src="https://github.com/user-attachments/assets/3b7684c7-1bb7-4001-8bb8-b4dcbf32b455" />
 
 ## Features
 
