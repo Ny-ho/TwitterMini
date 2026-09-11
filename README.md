@@ -1,6 +1,6 @@
 # TwitterMini
 
-A mini social app created to ltry Django. Used Bootstrap too.
+A mini social app created to try Django. Used Bootstrap too.
 
 ## Preview
 
